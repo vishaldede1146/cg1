@@ -1,0 +1,23 @@
+[
+  "LoginCount",
+  "SessionDuration",
+  "PurchaseAmount",
+  "MonthlyCharge",
+  "DataUsage",
+  "Complaints",
+  "SupportCalls",
+  "PaymentDelay",
+  "Tenure",
+  "LoginCount_delta",
+  "SessionDuration_delta",
+  "DataUsage_delta",
+  "PurchaseAmount_delta",
+  "Complaints_roll3",
+  "SupportCalls_roll3",
+  "PaymentDelay_roll3",
+  "AvgSessionPerLogin",
+  "ChargePerGB",
+  "EngagementScore",
+  "ContractType_encoded",
+  "PlanType_encoded"
+]
